@@ -1,0 +1,10 @@
+{
+	"id": "code-deleter",
+	"name": "Code Deleter",
+	"version": "1.0.0",
+	"minAppVersion": "0.14.0",
+	"description": "add a delete button for the code block",
+	"author": "cmdblock",
+	"authorUrl": "https://github.com/cmdblock",
+	"isDesktopOnly": false
+}
